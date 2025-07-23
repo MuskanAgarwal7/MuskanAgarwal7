@@ -8,3 +8,6 @@ HTML • CSS • JavaScript • React • Node.js • MongoDB • Git • VS Cod
 
 ## 📈 GitHub Stats
 ![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskanagrawal&show_icons=true&theme=radical)
+
+![Visitors](https://komarev.com/ghpvc/?username=MuskanAgrawal7&style=flat-square)
+
