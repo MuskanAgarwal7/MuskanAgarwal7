@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MuskanAgarwal7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuskanAgarwal7&icon=5&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=MuskanAgarwal7&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
